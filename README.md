@@ -1,4 +1,4 @@
-# Nome do Sistema: o que ele faz, em uma frase
+# GestãoFitPro: Auxilia o gerenciamento da sua Academia
 
 > **Antes de tudo.** Este é o modelo do Projeto Integrador de Análise e Projeto de Sistemas. Se você está lendo isto no seu próprio repositório, deu certo. Troque o título acima pelo nome do seu sistema e por uma frase que diga o que ele faz, preencha a autoria e o cliente e apague este aviso.
 
